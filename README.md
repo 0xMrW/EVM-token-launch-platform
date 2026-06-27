@@ -94,6 +94,10 @@ Upgradeable factory (`FourMemeFactory.sol`) that manages:
 - Liquidity migration to Uniswap V2 when the curve completes
 - Owner-configurable reserves, fees, and treasury settings
 
+## Contributing
+
+Contributions are welcome. Fork the repository, create a feature branch, and open a pull request with a clear description of your changes.
+
 ## License
 
 MIT (factory contract). See individual contract headers for details.
