@@ -1,4 +1,4 @@
-# EVM Token Launch Platform
+# EVM Token Launch Platform Smart Contract
 
 A Hardhat-based smart contract platform for launching meme tokens on EVM chains. It provides a bonding-curve launchpad with automatic liquidity migration to Uniswap V2–compatible DEX routers.
 
